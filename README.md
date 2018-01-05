@@ -6,6 +6,7 @@ Running : './smallsh'
 Usage: 'command [arg1 arg2 ...] [< input_file] [> output_file] [&]'
 
 Syntax:
+
 	1)'&' symbol used as the last word of command line to run the command in the background.
 
 	2)'<' symbol used to redirect STDIN to the file name 'input_file' for the given command.
